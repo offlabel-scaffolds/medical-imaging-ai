@@ -1,0 +1,43 @@
+{
+  "name": "medical-imaging-ai",
+  "displayName": "Medical Imaging AI Analysis",
+  "description": "AI-powered medical imaging analysis with DICOM support and ML models",
+  "version": "1.0.0",
+  "author": "Augustus Rivers - Offlabel Design",
+  "license": "MIT",
+  "repository": "https://github.com/offlabel-scaffolds/medical-imaging-ai",
+  "tech": [
+    "Python",
+    "PyTorch",
+    "FastAPI",
+    "DICOM",
+    "PostgreSQL"
+  ],
+  "categories": [
+    "ai-ml",
+    "backend",
+    "healthcare"
+  ],
+  "usecases": [
+    "healthcare",
+    "ai-ml"
+  ],
+  "priority": "high",
+  "maturity": "stable",
+  "complexity": "advanced",
+  "features": [
+    "DICOM Processing",
+    "AI Detection",
+    "Annotation",
+    "PACS Integration",
+    "Reporting"
+  ],
+  "hasDemo": false,
+  "hasCLI": true,
+  "securityFeatures": [
+    "HIPAA",
+    "Encryption",
+    "Audit Logs"
+  ],
+  "lastUpdated": "2025-10-03"
+}
