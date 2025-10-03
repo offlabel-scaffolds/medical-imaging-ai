@@ -2,15 +2,15 @@
 
 AI-powered medical imaging analysis with DICOM support and ML models
 
-## 🎯 Features
+## The Good Stuff
 
-- ✅ DICOM Processing
-- ✅ AI Detection
-- ✅ Annotation
-- ✅ PACS Integration
-- ✅ Reporting
+- DICOM Processing
+- AI Detection
+- Annotation
+- PACS Integration
+- Reporting
 
-## 🛠️ Tech Stack
+## Under the Hood
 
 - Python
 - PyTorch
@@ -18,7 +18,7 @@ AI-powered medical imaging analysis with DICOM support and ML models
 - DICOM
 - PostgreSQL
 
-## 🚀 Quick Start
+## Getting Started
 
 ```bash
 # Clone the repository
@@ -34,19 +34,19 @@ cp .env.example .env
 python main.py
 ```
 
-## 📚 Documentation
+## Documentation
 
 - [Getting Started](./docs/getting-started.md)
 - [API Reference](./docs/api-reference.md)
 - [Deployment Guide](./docs/deployment.md)
 - [Security Best Practices](./docs/security.md)
 
-## 🏢 Use Cases
+## Use Cases
 
 - **Healthcare**
 - **Ai-ml**
 
-## 🔒 Compliance & Security
+## Compliance & Security
 
 This scaffold includes built-in compliance features for:
 - HIPAA compliance
@@ -57,14 +57,14 @@ This scaffold includes built-in compliance features for:
 - Rate limiting and DDoS protection
 - Security headers and CORS
 
-## 📄 License
+## License
 
 MIT License - see [LICENSE](./LICENSE)
 
-## 🤝 Contributing
+## Contributing
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ---
 
-Built with care and coffee ☕ by [Offlabel Design](https://offlabel.design)
+Built with care and coffee by [Offlabel Design](https://offlabel.design)
